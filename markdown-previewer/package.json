@@ -2,7 +2,7 @@
   "name": "markdown-previewer",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://areumjo.github.io/fcc-08-md-preview",
+  "homepage": "https://areumjo.github.io/fcc-08-markdown-previewer/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
